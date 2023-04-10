@@ -6,4 +6,8 @@ public class TestHW4 {
 		
 		System.out.println("Heloooo.....");
 	}
+	public void add() {
+		
+		System.out.println(1+2);
+	}
 }
